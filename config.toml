@@ -39,7 +39,7 @@ disqusShortname = ""                 # your discuss shortname
 
 [params]
   subTitle = "the site subtitle"                                       # site's subTitle  # 网站二级标题
-  footerSlogan = "我的精神家园"                                          # site's footer slogan  # 网站页脚标语
+  footerSlogan = "写作空间"                                          # site's footer slogan  # 网站页脚标语
   keywords = ["Hugo", "theme","zozo"]                                  # site's keywords  # 网站关键字
   description = "Hugo theme zozo example site."                        # site's description  # 网站描述
 
